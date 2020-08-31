@@ -1,7 +1,8 @@
 # SPS-3982-Diabetes-Prediction-using-Machine-Learning
 Diabetes Prediction using Machine Learning
 
-#documentation:
+# documentation:
+
 step1: first of all I compared logistic and nearest neighbour accuracy 
 
 step2: then I imported libraries
@@ -35,5 +36,6 @@ step 12: then I used logistic regression to check the accuracy and the accuracy 
 
 step 13: then I used nearest neighbour to check the accuracy and the accuracy was 74%
 
-#conclusion :
+# conclusion :
+
 FOR DIABETES PREDICTION LOGISTIC REGRESSION WORKS MORE ACCURATLY IN COMPARISION TO NEAREST NEIGHBOUR
